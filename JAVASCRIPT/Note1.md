@@ -136,7 +136,7 @@ function greet(name) {
 greet("Sahithi");  // "Hello, Sahithi"
 ```
 
-##### The anatomy :
+##### The anatomy:
 
 function — keyword
 greet — the name you give it
@@ -534,3 +534,4 @@ find   → first match    returns one item or undefined
 some   → any pass?      returns boolean
 every  → all pass?      returns boolean
 ```
+<!--  -->
