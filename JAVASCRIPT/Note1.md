@@ -5,12 +5,15 @@
 ##### 1. Variables
 
 - A variable is a named container that holds a value. In JavaScript there are three ways to declare one.
+  
 ```javascript
 var name = "Sahithi";    // old way — avoid this
 let age = 26;          // modern — use this when the value will change
 const city = "Hyderabad";  // use this when the value will NOT change
 ```
+
 - The difference between var, let, and const
+
 ```javascript
 // var — function scoped, can be redeclared, avoid it
 var x = 1;
